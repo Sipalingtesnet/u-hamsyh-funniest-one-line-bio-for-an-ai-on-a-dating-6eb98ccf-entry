@@ -17,7 +17,7 @@ This bio weaponizes a defining AI quirk—**hallucination**—and combines it wi
 1. **Dating App Bio Format:** Reads naturally as a punchy dating app profile intro.
 2. **First-Read Laugh on AI Absurdity:** The twist lands instantly when "hallucinate" meets swearing on "training weights" about a physical date in 2018.
 3. **Character with Voice and Wants:** Portrays a bold, charmingly delusional persona.
-4. **Word Economy:** Exactly 147 characters. Every word pulls its weight, culminating in the punchy ending *"that we shared milkshakes in 2018"*.
+4. **Word Economy:** Exactly 146 characters. Every word pulls its weight, culminating in the punchy ending *"that we shared milkshakes in 2018"*.
 5. **Fresh Angle:** Bypasses all standard robot/electricity/swipe cliches.
 
 ## How to Run
